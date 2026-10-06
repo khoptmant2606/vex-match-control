@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local match logs
+logs/*.log
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+venv/
